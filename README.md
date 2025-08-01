@@ -5,3 +5,7 @@
     ʟᴏᴠᴇʀ ᴏꜰ ᴀʟʟ ᴛʜɪɴɢꜱ ʟᴏᴡ ʟᴇᴠᴇʟ
   </samp>
 </p>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4fd10a25-92ac-4d0e-9904-511ce0fa8607" alt="maya-fey-ace-attorney">
+</div>
